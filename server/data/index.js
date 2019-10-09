@@ -3,7 +3,7 @@ const authors = [
     name: "steve"
   }
 ];
-const books = [srq12
+const books = [
   {
     title: "Harry Potter and the Chamber of Secrets",
     author: authors[0]
